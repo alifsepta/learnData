@@ -11,7 +11,7 @@ class Solution(object):
                 total_units += boxes * units_per_box
                 truckSize -= boxes
             # If the truck has limited space, take as many boxes as possible
-            else
+            else:
                 total_units += truckSize * units_per_box
                 break  # No need to check other box types, as the truck is full
         
