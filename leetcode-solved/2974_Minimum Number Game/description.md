@@ -1,5 +1,7 @@
 # 2974. Minimum Number Game
 
+[Problem Source](https://leetcode.com/problems/minimum-number-game/description/)
+
 You are given a 0-indexed integer array nums of even length and there is also an empty array arr. Alice and Bob decided to play a game where in every round Alice and Bob will do one move. The rules of the game are as follows:
 
 - Every round, first Alice will remove the minimum element from nums, and then Bob does the same.
